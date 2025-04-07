@@ -1,2 +1,3 @@
-# Computational_Physics_in_Python_exercise
-Pythonで学ぶ計算物理の練習用のレポジトリ
+## このレポジトリは？
+https://www.physics.okayama-u.ac.jp/~otsuki/lecture/CompPhys2/index.html <br>
+この教材の演習を行うレポジトリ
