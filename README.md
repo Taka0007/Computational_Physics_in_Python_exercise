@@ -1,0 +1,2 @@
+# Computational_Physics_in_Python_exercise
+Pythonで学ぶ計算物理の練習用のレポジトリ
